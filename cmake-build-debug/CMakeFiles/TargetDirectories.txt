@@ -1,0 +1,3 @@
+C:/Users/thali/CLionProjects/tic_tac_toe/cmake-build-debug/CMakeFiles/tic_tac_toe.dir
+C:/Users/thali/CLionProjects/tic_tac_toe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thali/CLionProjects/tic_tac_toe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
